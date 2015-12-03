@@ -1,4 +1,4 @@
-=== # Jetpack Dev Mode ===
+#Jetpack Dev Mode
 Contributors: @IgnacioGaldames
 Tags: jetpack, developer mode
 
