@@ -1,8 +1,8 @@
-Jetpack_DevMode
-===============
+=== Jetpack Dev Mode ===
+Contributors: IgnacioGaldames
+Tags: jetpack, developer mode
 
-jetpack dev mode enabled
+Turn Jetpack Development on or off again, by simply activating this plugin
 
-Enable the Developer Mode for Jetpack, for local development, via a simple Plugin.
-
-Just activated the plugin for the activation and disable it for the desactivation.
+== Description ==
+Turn Jetpack Development on or off again, for local development by simply activating this plugin
