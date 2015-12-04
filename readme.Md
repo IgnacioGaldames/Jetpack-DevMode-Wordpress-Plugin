@@ -5,6 +5,8 @@ Turn Jetpack Development on or off again, by simply activating this plugin
 
 https://wordpress.org/plugins/jetpack-dev-mode/
 
+http://ignaciogaldames.github.io/Jetpack-DevMode-Wordpress-Plugin
+
 Tags: jetpack, developer mode
 
 #Description
