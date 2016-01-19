@@ -1,6 +1,13 @@
-body {
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  border: 5px solid black;
+}
+  body {
   padding-top: 50px;
   background-color: #fafafa;
+  font-family: 'Montserrat', sans-serif;
 }
 .starter-template {
   padding: 40px 15px;
